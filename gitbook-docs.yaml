@@ -1,5 +1,0 @@
-site:
-  title: "Data Engineering Zoomcamp"
-  structure:
-    - type: space
-      space: ./
