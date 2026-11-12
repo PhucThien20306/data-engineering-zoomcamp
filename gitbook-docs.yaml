@@ -1,4 +1,5 @@
 site:
+  title: "Data Engineering Zoomcamp"
   spaces:
     - name: DE Base
       path: ./
