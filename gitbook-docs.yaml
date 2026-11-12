@@ -1,2 +1,4 @@
-content:
-  - path: ./
+site:
+  spaces:
+    - name: DE Base
+      path: ./
