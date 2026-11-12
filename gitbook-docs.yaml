@@ -1,8 +1,5 @@
 site:
   title: "Data Engineering Zoomcamp"
   structure:
-    - type: space
-      title: "Data Engineering Zoomcamp Home"
+    - space: DE Base
       path: ./
-      content:
-        directory: ./
